@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/word-count/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/word-count/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/word-count/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/word-count/word_count_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/acronym/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/acronym/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/acronym/acronym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/scrabble-score/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/scrabble-score/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/scrabble-score/scrabble_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/scrabble-score/scrabble_score_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in word_count_test.py">
+  <component name="RunManager" selected="Python tests.Unittests in scrabble_score_test.py">
     <configuration name="Unittests in hamming_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,17 +64,17 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in matrix_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in scrabble_score_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/scrabble-score" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/matrix/matrix_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/scrabble-score/scrabble_score_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in scrabble_score_test.py" />
         <item itemvalue="Python tests.Unittests in word_count_test.py" />
         <item itemvalue="Python tests.Unittests in twelve_days_test.py" />
         <item itemvalue="Python tests.Unittests in isogram_test.py" />
         <item itemvalue="Python tests.Unittests in hamming_test.py" />
-        <item itemvalue="Python tests.Unittests in matrix_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590201044885</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="python word count">
+      <created>1590202262235</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590202262235</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,29 +210,30 @@
     <MESSAGE value="python hamming" />
     <MESSAGE value="python isogram" />
     <MESSAGE value="python twelve days" />
-    <option name="LAST_COMMIT_MESSAGE" value="python twelve days" />
+    <MESSAGE value="python word count" />
+    <option name="LAST_COMMIT_MESSAGE" value="python word count" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590201044809">
+    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590202262177">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590201044809" />
-    <state width="1264" height="334" key="GridCell.Tab.0.bottom" timestamp="1590201859949">
+    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590202262177" />
+    <state width="1264" height="334" key="GridCell.Tab.0.bottom" timestamp="1590202669745">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state width="1264" height="334" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590201859949" />
-    <state width="1264" height="334" key="GridCell.Tab.0.center" timestamp="1590201859945">
+    <state width="1264" height="334" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590202669745" />
+    <state width="1264" height="334" key="GridCell.Tab.0.center" timestamp="1590202669744">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state width="1264" height="334" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590201859945" />
-    <state width="1264" height="334" key="GridCell.Tab.0.left" timestamp="1590201859943">
+    <state width="1264" height="334" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590202669744" />
+    <state width="1264" height="334" key="GridCell.Tab.0.left" timestamp="1590202669744">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state width="1264" height="334" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590201859943" />
-    <state width="1264" height="334" key="GridCell.Tab.0.right" timestamp="1590201859947">
+    <state width="1264" height="334" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590202669744" />
+    <state width="1264" height="334" key="GridCell.Tab.0.right" timestamp="1590202669745">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state width="1264" height="334" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590201859947" />
+    <state width="1264" height="334" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590202669745" />
     <state width="1264" height="215" key="GridCell.Tab.1.bottom" timestamp="1590197101357">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
@@ -239,10 +250,10 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state width="1264" height="215" key="GridCell.Tab.1.right/56.27.1310.741@56.27.1310.741" timestamp="1590197101357" />
-    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590201049306">
+    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590202269685">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590201049306" />
+    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590202269685" />
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590193654657">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
