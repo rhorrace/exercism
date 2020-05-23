@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/hamming/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/hamming/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/hamming/hamming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/hamming/hamming_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/.exercism/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/isogram/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/isogram/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/isogram/isogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/isogram/isogram_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in hamming_test.py">
+  <component name="RunManager" selected="Python tests.Unittests in isogram_test.py">
     <configuration name="Unittests for high_scores_test.HighScoresTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +57,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/python/hamming/hamming_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in isogram_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="exercism" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/isogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/isogram/isogram_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -92,27 +102,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in two_fer_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="exercism" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/two-fer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/two-fer/two_fer_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in isogram_test.py" />
         <item itemvalue="Python tests.Unittests in hamming_test.py" />
         <item itemvalue="Python tests.Unittests in matrix_test.py" />
         <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest" />
         <item itemvalue="Python tests.Unittests in raindrops_test.py" />
-        <item itemvalue="Python tests.Unittests in two_fer_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590197674588</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="python hamming">
+      <created>1590198099928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590198099928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,13 +182,14 @@
     <MESSAGE value="python raindrops" />
     <MESSAGE value="python high score" />
     <MESSAGE value="python matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="python matrix" />
+    <MESSAGE value="python hamming" />
+    <option name="LAST_COMMIT_MESSAGE" value="python hamming" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590197674521">
+    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590198099853">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590197674521" />
+    <state x="250" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590198099853" />
     <state width="1264" height="392" key="GridCell.Tab.0.bottom" timestamp="1590197952732">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
@@ -218,10 +222,10 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state width="1264" height="215" key="GridCell.Tab.1.right/56.27.1310.741@56.27.1310.741" timestamp="1590197101357" />
-    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590197678985">
+    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590198113778">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590197678985" />
+    <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590198113778" />
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590193654657">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
