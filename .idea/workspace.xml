@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/acronym/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/acronym/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/acronym/acronym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/scrabble-score/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/scrabble-score/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/scrabble-score/scrabble_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/scrabble-score/scrabble_score_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/acronym/acronym.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/acronym/acronym.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +29,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in scrabble_score_test.py">
-    <configuration name="Unittests in hamming_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in acronym_test.py">
+    <configuration name="Unittests in acronym_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/hamming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/hamming/hamming_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/acronym/acronym_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -108,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in acronym_test.py" />
         <item itemvalue="Python tests.Unittests in scrabble_score_test.py" />
         <item itemvalue="Python tests.Unittests in word_count_test.py" />
         <item itemvalue="Python tests.Unittests in twelve_days_test.py" />
         <item itemvalue="Python tests.Unittests in isogram_test.py" />
-        <item itemvalue="Python tests.Unittests in hamming_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590202262235</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="python scrabble score">
+      <created>1590202792372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590202792372</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,13 +212,14 @@
     <MESSAGE value="python isogram" />
     <MESSAGE value="python twelve days" />
     <MESSAGE value="python word count" />
-    <option name="LAST_COMMIT_MESSAGE" value="python word count" />
+    <MESSAGE value="python scrabble score" />
+    <option name="LAST_COMMIT_MESSAGE" value="python scrabble score" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590202262177">
+    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590202792310">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
-    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590202262177" />
+    <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590202792310" />
     <state width="1264" height="334" key="GridCell.Tab.0.bottom" timestamp="1590202669745">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
