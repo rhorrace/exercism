@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/grade-school/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/grade-school/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/grade-school/grade_school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/grade-school/grade_school_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/luhn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/luhn/luhn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/luhn/luhn_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in grade_school_test.py">
+  <component name="RunManager" selected="Python tests.Unittests in luhn_test.py">
     <configuration name="Unittests in acronym_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +75,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in luhn_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="exercism" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/luhn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/luhn/luhn_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in scrabble_score_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,27 +103,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in word_count_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="exercism" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/word-count" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/word-count/word_count_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in luhn_test.py" />
         <item itemvalue="Python tests.Unittests in grade_school_test.py" />
         <item itemvalue="Python tests.Unittests in kindergarten_garden_test.py" />
         <item itemvalue="Python tests.Unittests in acronym_test.py" />
         <item itemvalue="Python tests.Unittests in scrabble_score_test.py" />
-        <item itemvalue="Python tests.Unittests in word_count_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -243,21 +242,25 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590279900107">
-      <screen x="56" y="27" width="1310" height="741" />
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590358193304">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590358193304" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590279900107">
-      <screen x="56" y="27" width="1310" height="741" />
+    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590358193304">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590358193304" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590279900107">
-      <screen x="56" y="27" width="1310" height="741" />
+    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590358193303">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590358193303" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590279900107">
-      <screen x="56" y="27" width="1310" height="741" />
+    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590358193304">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590358193304" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1264" height="215" key="GridCell.Tab.1.bottom" timestamp="1590203657790">
       <screen x="56" y="27" width="1310" height="741" />
