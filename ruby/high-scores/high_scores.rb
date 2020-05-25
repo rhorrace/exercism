@@ -19,11 +19,11 @@ class HighScores
   end
 
   def personal_best
-    @scores.sort[-1]
+    @scores.max
   end
 
   def personal_top_three
-    @scores.sort.reverse!.take(3)
+    @scores.max(3)
   end
 
   def latest_is_personal_best?
