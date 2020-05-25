@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/isbn-verifier/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/isbn-verifier/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/isbn-verifier/isbn_verifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/isbn-verifier/isbn_verifier_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/gigasecond/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/gigasecond/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/gigasecond/gigasecond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/gigasecond/gigasecond_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in isbn_verifier_test.py">
+  <component name="RunManager" selected="Python tests.Unittests in gigasecond_test.py">
+    <configuration name="Unittests in gigasecond_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="exercism" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/gigasecond" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/gigasecond/gigasecond_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in isbn_verifier_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,20 +72,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/python/pangram/pangram_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in rest_api_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="exercism" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/rest-api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/rest-api/rest_api_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -106,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in gigasecond_test.py" />
         <item itemvalue="Python tests.Unittests in isbn_verifier_test.py" />
         <item itemvalue="Python tests.Unittests in rna_transcription_test.py" />
         <item itemvalue="Python tests.Unittests in pangram_test.py" />
         <item itemvalue="Python tests.Unittests in reverse_string_test.py" />
-        <item itemvalue="Python tests.Unittests in rest_api_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590380240920</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="python isbn verifier">
+      <created>1590381257136</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590381257136</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -310,37 +316,38 @@
     <MESSAGE value="python reverse string" />
     <MESSAGE value="python pangram" />
     <MESSAGE value="python rna transcription" />
-    <option name="LAST_COMMIT_MESSAGE" value="python rna transcription" />
+    <MESSAGE value="python isbn verifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="python isbn verifier" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="580" y="266" width="609" height="270" key="#Notifications/56.27.1310.741@56.27.1310.741" timestamp="1590273696029" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590380240822">
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590381257070">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590380240822" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381257070" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590381246356">
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590381544868">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381246356" />
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381544868" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590381246355">
+    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590381544867">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381246355" />
+    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381544867" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590381246355">
+    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590381544867">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381246355" />
+    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381544867" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590381246355">
+    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590381544868">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381246355" />
+    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381544868" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
       <screen x="1366" y="0" width="1366" height="768" />
@@ -366,10 +373,10 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="200" y="31" width="1022" height="737" key="SettingsEditor/56.27.1310.741@56.27.1310.741" timestamp="1590277733462" />
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590380244796">
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590381262306">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590380244796" />
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590381262306" />
     <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590277367298" />
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590193654657">
       <screen x="56" y="27" width="1310" height="741" />
