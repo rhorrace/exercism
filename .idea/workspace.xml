@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/run-length-encoding/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/run-length-encoding/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/run-length-encoding/run_length_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/run-length-encoding/run_length_encoding_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby/high-scores/.high_scores.rb.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/meetup/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/meetup/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/meetup/meetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/meetup/meetup_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby/high-scores/high_scores.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/high-scores/high_scores.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590384533009</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="python run length encoding">
+      <created>1590426797470</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1590426797470</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ruby high scores">
+      <created>1590426813983</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1590426813983</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,7 +356,9 @@
     <MESSAGE value="python gigasecond" />
     <MESSAGE value="python bob" />
     <MESSAGE value="python yacht" />
-    <option name="LAST_COMMIT_MESSAGE" value="python yacht" />
+    <MESSAGE value="python run length encoding" />
+    <MESSAGE value="ruby high scores" />
+    <option name="LAST_COMMIT_MESSAGE" value="ruby high scores" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
@@ -355,30 +369,30 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590384532743">
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590426813881">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590384532743" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590426813881" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590425819828">
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590428168519">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590425819828" />
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428168519" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590425819828">
+    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590428168519">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590425819828" />
+    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428168519" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590425819828">
+    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590428168519">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590425819828" />
+    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428168519" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590425819828">
+    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590428168519">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590425819828" />
+    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428168519" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
       <screen x="1366" y="0" width="1366" height="768" />
