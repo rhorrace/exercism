@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/rotational-cipher/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/rotational-cipher/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/rotational-cipher/rotational_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/rotational-cipher/rotational_cipher_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/difference-of-squares/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/difference-of-squares/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/difference-of-squares/difference_of_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/difference-of-squares/difference_of_squares_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,12 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590428805227</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="python rotational cipher">
+      <created>1590430529846</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1590430529846</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python raindrops" />
     <MESSAGE value="python high score" />
     <MESSAGE value="python matrix" />
     <MESSAGE value="python hamming" />
@@ -372,7 +377,8 @@
     <MESSAGE value="ruby high scores" />
     <MESSAGE value="python meetup" />
     <MESSAGE value="python armstrong numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="python armstrong numbers" />
+    <MESSAGE value="python rotational cipher" />
+    <option name="LAST_COMMIT_MESSAGE" value="python rotational cipher" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
@@ -383,30 +389,30 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590428805164">
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590430529730">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428805164" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430529730" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590430406270">
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590430820698">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430406270" />
+    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430820698" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590430406270">
+    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590430820698">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430406270" />
+    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430820698" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590430406269">
+    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590430820698">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430406269" />
+    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430820698" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590430406270">
+    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590430820698">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430406270" />
+    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430820698" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
       <screen x="1366" y="0" width="1366" height="768" />
@@ -432,10 +438,10 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="200" y="31" width="1022" height="737" key="SettingsEditor/56.27.1310.741@56.27.1310.741" timestamp="1590277733462" />
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590428810322">
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590430534267">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590428810322" />
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590430534267" />
     <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590277367298" />
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590193654657">
       <screen x="56" y="27" width="1310" height="741" />
