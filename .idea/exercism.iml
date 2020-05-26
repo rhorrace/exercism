@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
