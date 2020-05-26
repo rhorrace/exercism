@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/rust/hello-world/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust/leap/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/GETTING_STARTED.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/hello-world/tests/hello-world.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/leap/tests/leap.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercism.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,9 +39,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/hello-world" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/leap" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo test" />
+      <command value="cargo clean" />
+    </option>
   </component>
   <component name="RunManager" selected="Cargo Command.clean">
     <configuration name="clean" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
@@ -52,7 +57,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/hello-world" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/leap" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -65,7 +70,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/hello-world" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/leap" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -118,8 +123,8 @@
         <item itemvalue="Cargo Command.clean" />
         <item itemvalue="Cargo Command.clean" />
         <item itemvalue="Cargo Command.test" />
-        <item itemvalue="Python tests.Unittests in allergies_test.py" />
-        <item itemvalue="Python tests.Unittests in anagram_test.py" />
+        <item itemvalue="Cargo Command.test" />
+        <item itemvalue="Cargo Command.clean" />
       </list>
     </recent_temporary>
   </component>
@@ -403,12 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590530973315</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="rust hello world">
+      <created>1590531392679</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1590531392679</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python scrabble score" />
     <MESSAGE value="python Kindergarten Garden" />
     <MESSAGE value="python Luhn" />
     <MESSAGE value="python Markdown" />
@@ -433,7 +444,8 @@
     <MESSAGE value="ruby leap" />
     <MESSAGE value="ruby difference of squares" />
     <MESSAGE value="python allergies" />
-    <option name="LAST_COMMIT_MESSAGE" value="python allergies" />
+    <MESSAGE value="rust hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="rust hello world" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
@@ -444,34 +456,34 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590530972768">
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590531392592">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530972768" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531392592" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590531079220">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590531434903">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531079220" />
-    <state width="1264" height="181" key="GridCell.Tab.0.bottom" timestamp="1590531288610">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531434903" />
+    <state width="1264" height="181" key="GridCell.Tab.0.bottom" timestamp="1590531668669">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1264" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
+    <state width="1264" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531668669" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1264" height="181" key="GridCell.Tab.0.center" timestamp="1590531288610">
+    <state width="1264" height="181" key="GridCell.Tab.0.center" timestamp="1590531668669">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1264" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
+    <state width="1264" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531668669" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1264" height="181" key="GridCell.Tab.0.left" timestamp="1590531288610">
+    <state width="1264" height="181" key="GridCell.Tab.0.left" timestamp="1590531668669">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1264" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288609" />
+    <state width="1264" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531668669" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1264" height="181" key="GridCell.Tab.0.right" timestamp="1590531288610">
+    <state width="1264" height="181" key="GridCell.Tab.0.right" timestamp="1590531668669">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1264" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
+    <state width="1264" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531668669" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
       <screen x="1366" y="0" width="1366" height="768" />
@@ -507,10 +519,10 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/56.27.1310.741@56.27.1310.741" timestamp="1590193654657" />
-    <state x="1741" y="174" width="672" height="677" key="run.anything.popup" timestamp="1590531288576">
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup" timestamp="1590531668628">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1741" y="174" width="672" height="677" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288576" />
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531668628" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
