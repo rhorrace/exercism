@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/rust/hello-world/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/allergies/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/allergies/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/allergies/allergies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/allergies/allergies_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/GETTING_STARTED.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/hello-world/tests/hello-world.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercism.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6gtm5iqn" />
   </component>
   <component name="ProjectId" id="1cHiaHSOV4VnjMspgBtpboivcvx" />
   <component name="ProjectLevelVcsManager">
@@ -30,10 +40,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/hello-world" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in allergies_test.py">
+  <component name="RunManager" selected="Cargo Command.clean">
+    <configuration name="clean" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="clean" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/hello-world" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/hello-world" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unittests in allergies_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,20 +99,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in armstrong_numbers_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="exercism" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/armstrong-numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/armstrong-numbers/armstrong_numbers_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests in rotational_cipher_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,29 +113,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in run_length_encoding_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="exercism" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/run-length-encoding" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/run-length-encoding/run_length_encoding_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo Command.clean" />
+        <item itemvalue="Cargo Command.clean" />
+        <item itemvalue="Cargo Command.test" />
         <item itemvalue="Python tests.Unittests in allergies_test.py" />
         <item itemvalue="Python tests.Unittests in anagram_test.py" />
-        <item itemvalue="Python tests.Unittests in rotational_cipher_test.py" />
-        <item itemvalue="Python tests.Unittests in armstrong_numbers_test.py" />
-        <item itemvalue="Python tests.Unittests in run_length_encoding_test.py" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -384,12 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590434129090</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="python allergies">
+      <created>1590530973315</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1590530973315</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python word count" />
     <MESSAGE value="python scrabble score" />
     <MESSAGE value="python Kindergarten Garden" />
     <MESSAGE value="python Luhn" />
@@ -414,7 +432,8 @@
     <MESSAGE value="ruby matrix" />
     <MESSAGE value="ruby leap" />
     <MESSAGE value="ruby difference of squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="ruby difference of squares" />
+    <MESSAGE value="python allergies" />
+    <option name="LAST_COMMIT_MESSAGE" value="python allergies" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
@@ -425,30 +444,34 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590434128975">
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2" timestamp="1590530972768">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590434128975" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530972768" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1590277362020" />
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom" timestamp="1590530731939">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590531079220">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530731939" />
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531079220" />
+    <state width="1264" height="181" key="GridCell.Tab.0.bottom" timestamp="1590531288610">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1264" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
     <state width="1287" height="181" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.center" timestamp="1590530731939">
+    <state width="1264" height="181" key="GridCell.Tab.0.center" timestamp="1590531288610">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530731939" />
+    <state width="1264" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
     <state width="1287" height="181" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.left" timestamp="1590530731939">
+    <state width="1264" height="181" key="GridCell.Tab.0.left" timestamp="1590531288610">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530731939" />
+    <state width="1264" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288609" />
     <state width="1287" height="181" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
-    <state width="1287" height="181" key="GridCell.Tab.0.right" timestamp="1590530731939">
+    <state width="1264" height="181" key="GridCell.Tab.0.right" timestamp="1590531288610">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1287" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530731939" />
+    <state width="1264" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288610" />
     <state width="1287" height="181" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1590279900107" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
       <screen x="1366" y="0" width="1366" height="768" />
@@ -475,15 +498,19 @@
     </state>
     <state x="1516" y="27" width="1066" height="741" key="SettingsEditor/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590432386668" />
     <state x="200" y="31" width="1022" height="737" key="SettingsEditor/56.27.1310.741@56.27.1310.741" timestamp="1590277733462" />
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590433047701">
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590530978442">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590433047701" />
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590530978442" />
     <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590277367298" />
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590193654657">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/56.27.1310.741@56.27.1310.741" timestamp="1590193654657" />
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup" timestamp="1590531288576">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590531288576" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
