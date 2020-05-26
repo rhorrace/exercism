@@ -6,8 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/leap/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/leap/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
