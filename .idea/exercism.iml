@@ -18,8 +18,11 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/difference-of-squares/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
