@@ -49,7 +49,7 @@
       <command value="cargo test" />
     </option>
   </component>
-  <component name="RunManager" selected="Cargo Command.test">
+  <component name="RunManager" selected="Cargo Command.clean">
     <configuration name="clean" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
       <option name="command" value="clean" />
@@ -120,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.clean" />
+        <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
