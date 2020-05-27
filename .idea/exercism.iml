@@ -20,12 +20,15 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grains/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grains/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
