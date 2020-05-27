@@ -32,6 +32,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/high-scores/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/bob/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/bob/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/matching-brackets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/matching-brackets/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
@@ -41,6 +43,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/high-scores/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
