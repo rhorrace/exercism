@@ -44,6 +44,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/pascals-triangle/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/paasio/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/paasio/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nucleotide-count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nucleotide-count/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
@@ -57,6 +59,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/nucleotide-count/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/paasio/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pascals-triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
