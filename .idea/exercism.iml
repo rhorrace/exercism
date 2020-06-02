@@ -60,6 +60,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/grade-school/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/binary-search/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/binary-search/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/robot-simulator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/robot-simulator/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
@@ -85,6 +87,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/robot-simulator/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sieve/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/simple-linked-list/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
