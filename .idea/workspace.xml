@@ -50,7 +50,7 @@
       <command value="cargo build" />
     </option>
   </component>
-  <component name="RunManager" selected="Cargo Command.test">
+  <component name="RunManager" selected="Cargo Command.clean">
     <configuration name="build" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="channel" value="DEFAULT" />
       <option name="command" value="build" />
