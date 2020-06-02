@@ -56,6 +56,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/rna-transcription/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/triangle/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/triangle/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grade-school/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grade-school/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
@@ -65,6 +67,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/etl/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/grade-school/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/high-scores/target" />
