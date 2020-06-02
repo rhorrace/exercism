@@ -58,9 +58,12 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/triangle/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grade-school/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grade-school/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/binary-search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/binary-search/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/binary-search/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
