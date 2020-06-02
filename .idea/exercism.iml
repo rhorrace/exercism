@@ -62,6 +62,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/binary-search/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/robot-simulator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/robot-simulator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/queen-attack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/queen-attack/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
@@ -84,6 +86,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/pascals-triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/queen-attack/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
