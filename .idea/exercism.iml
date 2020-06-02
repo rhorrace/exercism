@@ -64,11 +64,14 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/robot-simulator/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/queen-attack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/queen-attack/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/bowling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/bowling/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/binary-search/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/bowling/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />
