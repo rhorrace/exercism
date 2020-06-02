@@ -50,6 +50,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/etl/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/acronym/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/acronym/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sieve/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sieve/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
@@ -72,6 +74,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/sieve/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/simple-linked-list/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
     </content>
