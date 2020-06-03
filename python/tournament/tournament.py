@@ -1,6 +1,3 @@
-from collections import OrderedDict
-
-
 def tally(rows):
     teams = {}
     table = ["Team                           | MP |  W |  D |  L |  P"]
