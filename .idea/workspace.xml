@@ -50,7 +50,7 @@
       <command value="cargo test" />
     </option>
   </component>
-  <component name="RunManager" selected="Cargo Command.test">
+  <component name="RunManager" selected="Cargo Command.clean">
     <configuration name="build" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
       <option name="command" value="build" />
@@ -64,7 +64,7 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clean" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <configuration name="clean" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
       <option name="command" value="clean" />
       <option name="allFeatures" value="false" />
@@ -141,11 +141,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo Command.clean" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
-        <item itemvalue="Cargo Command.build" />
       </list>
     </recent_temporary>
   </component>
