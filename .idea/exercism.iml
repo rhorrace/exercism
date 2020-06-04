@@ -74,6 +74,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/two-bucket/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/spiral-matrix/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/spiral-matrix/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/palindrome-products/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/palindrome-products/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
@@ -95,6 +97,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nucleotide-count/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/paasio/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/palindrome-products/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pascals-triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
