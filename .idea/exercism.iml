@@ -80,6 +80,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/saddle-points/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/isogram/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/isogram/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/say/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/say/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
@@ -112,6 +114,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/robot-simulator/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/saddle-points/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/say/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sieve/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/simple-linked-list/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/spiral-matrix/target" />
