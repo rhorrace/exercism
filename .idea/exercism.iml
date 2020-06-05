@@ -88,6 +88,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/isbn-verifier/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/perfect-numbers/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/perfect-numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/hamming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/hamming/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
@@ -102,6 +104,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grade-school/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/hamming/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/high-scores/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/isbn-verifier/target" />
