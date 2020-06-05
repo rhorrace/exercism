@@ -94,7 +94,10 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/scrabble-score/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/pangram/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/pangram/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/all-your-base/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/all-your-base/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
