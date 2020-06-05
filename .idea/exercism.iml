@@ -100,6 +100,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/allergies/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/affine-cipher/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/affine-cipher/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/variable-length-quantity/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/variable-length-quantity/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -149,6 +151,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/tournament/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/two-bucket/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/variable-length-quantity/target" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
