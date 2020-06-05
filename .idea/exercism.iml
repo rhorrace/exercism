@@ -84,6 +84,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/say/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/run-length-encoding/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/run-length-encoding/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/isbn-verifier/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/isbn-verifier/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
@@ -100,6 +102,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/high-scores/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/isbn-verifier/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/isogram/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
