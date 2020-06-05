@@ -86,6 +86,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/run-length-encoding/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/isbn-verifier/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/isbn-verifier/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/perfect-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/perfect-numbers/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
@@ -111,6 +113,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/paasio/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/palindrome-products/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pascals-triangle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/perfect-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/queen-attack/target" />
