@@ -108,6 +108,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/atbash-cipher/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/crypto-square/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/crypto-square/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rotational-cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rotational-cipher/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -149,6 +151,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/robot-simulator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/rotational-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/run-length-encoding/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/saddle-points/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/say/target" />
