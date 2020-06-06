@@ -104,12 +104,15 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/variable-length-quantity/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/pig-latin/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/pig-latin/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/atbash-cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/atbash-cipher/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/allergies/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/alphametics/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/atbash-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/binary-search/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
