@@ -112,6 +112,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/rotational-cipher/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/simple-cipher/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/simple-cipher/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rail-fence-cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rail-fence-cipher/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -149,6 +151,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/queen-attack/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/rail-fence-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
