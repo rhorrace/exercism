@@ -120,6 +120,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/protein-translation/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/robot-name/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/robot-name/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/ocr-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/ocr-numbers/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -149,6 +151,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nucleotide-count/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/ocr-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/paasio/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/palindrome-products/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pangram/target" />
