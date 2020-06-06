@@ -75,7 +75,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/protein-translation" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/simple-cipher" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -165,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590191980661</updated>
-    </task>
-    <task id="LOCAL-00059" summary="rust dot dsl">
-      <created>1591041107318</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1591041107318</updated>
     </task>
     <task id="LOCAL-00060" summary="rust pascal triangle">
       <created>1591043002135</created>
@@ -509,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591474813664</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="rust protein translation">
+      <created>1591474891576</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1591474891577</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -546,31 +546,31 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="580" y="266" width="609" height="270" key="#Notifications/56.27.1310.741@56.27.1310.741" timestamp="1590273696029" />
-    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591473144935">
+    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591474917397">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1516" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2732.741@0.27.2732.741" timestamp="1591049558088" />
-    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591473144935" />
+    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591474917397" />
     <state x="282" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.27.1310.741@56.27.1310.741" timestamp="1591025686914" />
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590382272187">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591474812985">
+    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591474891439">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="27" width="1310" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1591049137540" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591474812985" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591474891439" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1591025741490" />
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog" timestamp="1591415118256">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591415118256" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591473143008">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591474916581">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="177" width="424" height="491" key="FileChooserDialogImpl/0.27.2732.741@0.27.2732.741" timestamp="1591049543889" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591473143008" />
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591474916581" />
     <state x="530" y="177" key="FileChooserDialogImpl/56.27.1310.741@56.27.1310.741" timestamp="1591030535326" />
     <state width="1264" height="177" key="GridCell.Tab.0.bottom" timestamp="1591474864830">
       <screen x="1366" y="0" width="1366" height="768" />
