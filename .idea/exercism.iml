@@ -106,6 +106,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/pig-latin/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/atbash-cipher/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/atbash-cipher/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/crypto-square/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/crypto-square/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -118,6 +120,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/bob/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/bowling/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/clock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/crypto-square/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/etl/target" />
