@@ -110,6 +110,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/crypto-square/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/rotational-cipher/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/rotational-cipher/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/simple-cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/simple-cipher/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -157,6 +159,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/say/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/scrabble-score/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sieve/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/simple-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/simple-linked-list/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/spiral-matrix/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
