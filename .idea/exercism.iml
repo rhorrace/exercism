@@ -132,6 +132,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/sublist/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/custom-set/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/custom-set/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/minesweeper/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/minesweeper/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -160,6 +162,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/isogram/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/minesweeper/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nucleotide-count/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/ocr-numbers/target" />
