@@ -150,6 +150,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/largest-series-product/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/word-count/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/word-count/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/phone-number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/phone-number/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -193,6 +195,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/pangram/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pascals-triangle/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/perfect-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/phone-number/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/pig-latin/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/protein-translation/target" />
