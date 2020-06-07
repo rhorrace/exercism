@@ -142,6 +142,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/diffie-hellman/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/luhn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/luhn/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/luhn-from/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/luhn-from/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -171,6 +173,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/isbn-verifier/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/isogram/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/luhn-from/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/luhn/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/minesweeper/target" />
