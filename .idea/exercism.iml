@@ -130,6 +130,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/wordy/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/sublist/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/sublist/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/custom-set/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/custom-set/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -144,6 +146,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/bowling/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/crypto-square/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/custom-set/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/etl/target" />
