@@ -156,6 +156,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/diamond/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/accumulate/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/accumulate/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/fizzy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/fizzy/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/accumulate/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
@@ -178,6 +180,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/diffie-hellman/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/etl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/fizzy/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grade-school/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
