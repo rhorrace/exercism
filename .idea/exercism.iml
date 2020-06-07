@@ -128,6 +128,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/space-age/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/wordy/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/wordy/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sublist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sublist/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -185,6 +187,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/simple-linked-list/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/space-age/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/spiral-matrix/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/sublist/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/tournament/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/triangle/target" />
