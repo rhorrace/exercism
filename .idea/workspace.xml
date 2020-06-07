@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/rust/series/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust/collatz-conjecture/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rust/series/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/series/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/series/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/series/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/series/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/series/tests/series.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/collatz-conjecture/tests/collatz-conjecture.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/series" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/collatz-conjecture" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="language.rust.cargo" />
   </component>
@@ -71,7 +70,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/series" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/collatz-conjecture" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -84,7 +83,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/series" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/collatz-conjecture" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -97,7 +96,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/series" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/collatz-conjecture" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -110,7 +109,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/series" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/collatz-conjecture" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -176,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590191980661</updated>
-    </task>
-    <task id="LOCAL-00071" summary="rust robot simulator">
-      <created>1591122726114</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1591122726114</updated>
     </task>
     <task id="LOCAL-00072" summary="rust queen attack">
       <created>1591125555912</created>
@@ -520,12 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591503665813</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="rust series">
+      <created>1591550569056</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1591550569057</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="rust isbn verifier" />
     <MESSAGE value="rust perfect numbers" />
     <MESSAGE value="rust hamming" />
     <MESSAGE value="rust scrabble score" />
@@ -550,65 +548,66 @@
     <MESSAGE value="rust sublist" />
     <MESSAGE value="rust custom set" />
     <MESSAGE value="rust minesweeper" />
-    <option name="LAST_COMMIT_MESSAGE" value="rust minesweeper" />
+    <MESSAGE value="rust series" />
+    <option name="LAST_COMMIT_MESSAGE" value="rust series" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="580" y="266" width="609" height="270" key="#Notifications/56.27.1310.741@56.27.1310.741" timestamp="1590273696029" />
-    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591550551195">
+    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591550976255">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1516" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2732.741@0.27.2732.741" timestamp="1591049558088" />
-    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550551195" />
+    <state x="1648" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550976255" />
     <state x="282" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.27.1310.741@56.27.1310.741" timestamp="1591025686914" />
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590382272187">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591503665696">
+    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591550568752">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="27" width="1310" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1591049137540" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591503665696" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550568752" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1591025741490" />
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog" timestamp="1591415118256">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591415118256" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591550549330">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591550974143">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="177" width="424" height="491" key="FileChooserDialogImpl/0.27.2732.741@0.27.2732.741" timestamp="1591049543889" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550549330" />
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550974143" />
     <state x="530" y="177" key="FileChooserDialogImpl/56.27.1310.741@56.27.1310.741" timestamp="1591030535326" />
-    <state width="1264" height="176" key="GridCell.Tab.0.bottom" timestamp="1591550421565">
+    <state width="1264" height="176" key="GridCell.Tab.0.bottom" timestamp="1591550554657">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1591050246844" />
-    <state width="1264" height="176" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550421565" />
+    <state width="1264" height="176" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550554657" />
     <state width="1264" height="165" key="GridCell.Tab.0.bottom/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769543" />
     <state width="1264" height="291" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1591033064520" />
-    <state width="1264" height="176" key="GridCell.Tab.0.center" timestamp="1591550421565">
+    <state width="1264" height="176" key="GridCell.Tab.0.center" timestamp="1591550554657">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1591050246841" />
-    <state width="1264" height="176" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550421565" />
+    <state width="1264" height="176" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550554657" />
     <state width="1264" height="165" key="GridCell.Tab.0.center/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769542" />
     <state width="1264" height="291" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1591033064518" />
-    <state width="1264" height="176" key="GridCell.Tab.0.left" timestamp="1591550421565">
+    <state width="1264" height="176" key="GridCell.Tab.0.left" timestamp="1591550554656">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1591050246840" />
-    <state width="1264" height="176" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550421565" />
+    <state width="1264" height="176" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550554656" />
     <state width="1264" height="165" key="GridCell.Tab.0.left/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769542" />
     <state width="1264" height="291" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1591033064516" />
-    <state width="1264" height="176" key="GridCell.Tab.0.right" timestamp="1591550421565">
+    <state width="1264" height="176" key="GridCell.Tab.0.right" timestamp="1591550554657">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1591050246842" />
-    <state width="1264" height="176" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550421565" />
+    <state width="1264" height="176" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591550554657" />
     <state width="1264" height="165" key="GridCell.Tab.0.right/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769543" />
     <state width="1264" height="291" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1591033064519" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
