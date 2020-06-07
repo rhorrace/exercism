@@ -152,6 +152,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/word-count/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/phone-number/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/phone-number/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/diamond/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/diamond/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/all-your-base/target" />
@@ -168,6 +170,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/collatz-conjecture/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/crypto-square/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/custom-set/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/diamond/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/diffie-hellman/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/dot-dsl/target" />

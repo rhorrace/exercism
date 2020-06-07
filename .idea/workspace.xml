@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/rust/phone-number/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust/diamond/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/phone-number/tests/phone-number.rs" afterDir="false" />
+    <list default="true" id="f7e92115-4161-4409-9c1b-5d59ea4eb0e7" name="Default Changelist" comment="rust phone number">
+      <change afterPath="$PROJECT_DIR$/rust/diamond/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/diamond/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/diamond/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/diamond/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/diamond/tests/diamond.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercism.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/phone-number" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rust/diamond" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="language.rust.cargo" />
   </component>
@@ -84,7 +83,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/phone-number" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/diamond" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -110,7 +109,7 @@
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/phone-number" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust/diamond" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -156,7 +155,7 @@
       <list>
         <item itemvalue="Cargo Command.clean" />
         <item itemvalue="Cargo Command.test" />
-        <item itemvalue="Cargo Command.build" />
+        <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
         <item itemvalue="Cargo Command.test" />
       </list>
@@ -176,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590191980661</updated>
-    </task>
-    <task id="LOCAL-00079" summary="rust palindrome products">
-      <created>1591239529174</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1591239529175</updated>
     </task>
     <task id="LOCAL-00080" summary="rust palindrome products">
       <created>1591239559354</created>
@@ -520,12 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591562035089</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="rust phone number">
+      <created>1591563272567</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1591563272567</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="rust variable length quantity" />
     <MESSAGE value="rust pig latin" />
     <MESSAGE value="rust atbash cipher" />
     <MESSAGE value="rust crypto square" />
@@ -550,7 +548,8 @@
     <MESSAGE value="rust luhn trait" />
     <MESSAGE value="rust largest series product" />
     <MESSAGE value="rust word count" />
-    <option name="LAST_COMMIT_MESSAGE" value="rust word count" />
+    <MESSAGE value="rust phone number" />
+    <option name="LAST_COMMIT_MESSAGE" value="rust phone number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="266" width="609" height="270" key="#Notifications" timestamp="1590273696029">
@@ -567,48 +566,48 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1522" y="127" width="1110" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590382272187" />
-    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591562035002">
+    <state x="1645" y="27" width="1310" height="741" key="CommitChangelistDialog2" timestamp="1591566553454">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="27" width="1310" height="741" key="CommitChangelistDialog2/0.27.2732.741@0.27.2732.741" timestamp="1591049137540" />
-    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591562035002" />
+    <state x="1645" y="27" width="951" height="741" key="CommitChangelistDialog2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591566553454" />
     <state x="324" y="27" width="912" height="741" key="CommitChangelistDialog2/56.27.1310.741@56.27.1310.741" timestamp="1591025741490" />
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog" timestamp="1591415118256">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="2030" y="153" width="309" height="496" key="EnvironmentVariablesDialog/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591415118256" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591562840654">
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591566542521">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="177" width="424" height="491" key="FileChooserDialogImpl/0.27.2732.741@0.27.2732.741" timestamp="1591049543889" />
-    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591562840654" />
+    <state x="1860" y="155" width="424" height="491" key="FileChooserDialogImpl/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591566542521" />
     <state x="530" y="177" key="FileChooserDialogImpl/56.27.1310.741@56.27.1310.741" timestamp="1591030535326" />
-    <state width="1264" height="176" key="GridCell.Tab.0.bottom" timestamp="1591563191928">
+    <state width="1264" height="185" key="GridCell.Tab.0.bottom" timestamp="1591567370980">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1591050246844" />
-    <state width="1264" height="176" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591563191928" />
+    <state width="1264" height="185" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591567370980" />
     <state width="1264" height="165" key="GridCell.Tab.0.bottom/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769543" />
     <state width="1264" height="291" key="GridCell.Tab.0.bottom/56.27.1310.741@56.27.1310.741" timestamp="1591033064520" />
-    <state width="1264" height="176" key="GridCell.Tab.0.center" timestamp="1591563191928">
+    <state width="1264" height="185" key="GridCell.Tab.0.center" timestamp="1591567370980">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1591050246841" />
-    <state width="1264" height="176" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591563191928" />
+    <state width="1264" height="185" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591567370980" />
     <state width="1264" height="165" key="GridCell.Tab.0.center/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769542" />
     <state width="1264" height="291" key="GridCell.Tab.0.center/56.27.1310.741@56.27.1310.741" timestamp="1591033064518" />
-    <state width="1264" height="176" key="GridCell.Tab.0.left" timestamp="1591563191927">
+    <state width="1264" height="185" key="GridCell.Tab.0.left" timestamp="1591567370980">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1591050246840" />
-    <state width="1264" height="176" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591563191927" />
+    <state width="1264" height="185" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591567370980" />
     <state width="1264" height="165" key="GridCell.Tab.0.left/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769542" />
     <state width="1264" height="291" key="GridCell.Tab.0.left/56.27.1310.741@56.27.1310.741" timestamp="1591033064516" />
-    <state width="1264" height="176" key="GridCell.Tab.0.right" timestamp="1591563191928">
+    <state width="1264" height="185" key="GridCell.Tab.0.right" timestamp="1591567370980">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1264" height="165" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1591050246842" />
-    <state width="1264" height="176" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591563191928" />
+    <state width="1264" height="185" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591567370980" />
     <state width="1264" height="165" key="GridCell.Tab.0.right/1366.0.1366.768/56.27.1310.741@56.27.1310.741" timestamp="1591109769543" />
     <state width="1264" height="291" key="GridCell.Tab.0.right/56.27.1310.741@56.27.1310.741" timestamp="1591033064519" />
     <state width="1287" height="215" key="GridCell.Tab.1.bottom" timestamp="1590377490817">
@@ -637,11 +636,11 @@
     <state x="0" y="31" width="1366" height="737" key="SettingsEditor/0.27.2732.741@0.27.2732.741" timestamp="1591044557616" />
     <state x="1516" y="27" width="1066" height="741" key="SettingsEditor/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1590550701561" />
     <state x="200" y="31" width="1022" height="737" key="SettingsEditor/56.27.1310.741@56.27.1310.741" timestamp="1590277733462" />
-    <state x="1627" y="110" width="1310" height="517" key="Vcs.Push.Dialog.v2" timestamp="1591562038424">
+    <state x="1627" y="110" width="1310" height="517" key="Vcs.Push.Dialog.v2" timestamp="1591563276059">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1422" y="80" width="1310" height="517" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1591049141180" />
-    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591562038424" />
+    <state x="1627" y="110" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591563276059" />
     <state x="306" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/56.27.1310.741@56.27.1310.741" timestamp="1590277367298" />
     <state x="1614" y="0" width="618" height="768" key="find.popup" timestamp="1591247389116">
       <screen x="1366" y="0" width="1366" height="768" />
@@ -651,11 +650,11 @@
       <screen x="56" y="27" width="1310" height="741" />
     </state>
     <state x="515" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/56.27.1310.741@56.27.1310.741" timestamp="1590193654657" />
-    <state x="1741" y="174" width="672" height="677" key="run.anything.popup" timestamp="1591559877320">
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup" timestamp="1591567370900">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1547" y="38" width="1402" height="654" key="run.anything.popup/0.27.2732.741@0.27.2732.741" timestamp="1591040946269" />
-    <state x="1741" y="174" width="672" height="677" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591559877320" />
+    <state x="1741" y="174" width="672" height="677" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@1366.0.1366.768" timestamp="1591567370900" />
     <state x="416" y="195" width="672" height="654" key="run.anything.popup/56.27.1310.741@56.27.1310.741" timestamp="1591030531190" />
     <state x="1740" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591561289312">
       <screen x="1366" y="0" width="1366" height="768" />
