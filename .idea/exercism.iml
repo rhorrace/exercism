@@ -160,6 +160,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/fizzy/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/roman-numerals/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/roman-numerals/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/pythagorean-triplet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/pythagorean-triplet/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/accumulate/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
@@ -211,6 +213,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/protein-translation/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/pythagorean-triplet/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/queen-attack/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rail-fence-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
