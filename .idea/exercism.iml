@@ -158,6 +158,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/accumulate/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/fizzy/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/fizzy/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/roman-numerals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/roman-numerals/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/accumulate/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
@@ -217,6 +219,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/rna-transcription/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/robot-name/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/robot-simulator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/roman-numerals/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/rotational-cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/run-length-encoding/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/saddle-points/target" />
