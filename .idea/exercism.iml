@@ -164,6 +164,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/pythagorean-triplet/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grep/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/grep/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/scale-generator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/scale-generator/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/accumulate/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/acronym/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/affine-cipher/target" />
@@ -230,6 +232,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/run-length-encoding/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/saddle-points/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/say/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/scale-generator/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/scrabble-score/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/series/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/sieve/target" />
