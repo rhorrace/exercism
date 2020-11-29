@@ -7,18 +7,21 @@ To get started with TDD, see the `README.md` file in your
 =end
 
 class Series
-  attr_reader :str, :length
+  private
+
+  attr_reader :str
+
+  public
 
   def initialize(str)
     @str = str
-    @length = str.size
   end
 
-  def slices(n)
-    raise ArgumentError if n > @length
+  def slices(lim)
+    raise ArgumentError if n > @str.size
 
-    (0..(@length - n)).to_a.map do |i|
-      @str[i..(i + n - 1)]
+    (0..(@str.size - lim)).map do |i|
+      @str[i..(i + lim - 1)]
     end
   end
 end
