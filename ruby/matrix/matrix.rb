@@ -19,5 +19,9 @@ class Matrix
     def columns
         @rows.transpose
     end
+
+    def saddle_points
+      # code here
+    end
 end
 
